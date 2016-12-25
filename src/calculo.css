@@ -1,0 +1,16 @@
+.grid {
+	-fx-background-color: rgba(29, 73, 188, 0.31);
+	-fx-font-family: "Liberation Mono", Consolas, Helvettica, sans-serif;
+}
+
+.h1 {
+	-fx-font-size: 250%;
+}
+
+.h2 {
+	-fx-font-size: 130%;
+}
+
+.h3 {
+	-fx-font-size: 115%;
+}
